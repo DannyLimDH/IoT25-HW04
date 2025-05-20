@@ -77,7 +77,7 @@ Steps:
 
 Photos showing the ESP32 connected to PC, Bluetooth pairing on the phone, and Serial Monitor outputs:
 
-![Setup 1](https://github.com/DannyLimDH/IoT25-HW03/blob/main/media/hw 4-1.png)  
+![Setup 1](https://github.com/DannyLimDH/IoT25-HW03/blob/main/media/hw%24-1.png)  
 ![Setup 2](./media/hw%204-2.png)  
 ![Phone Screenshot 1](./media/hw%204-3.jpg)  
 ![Phone Screenshot 2](./media/hw%204-4.jpg)  
