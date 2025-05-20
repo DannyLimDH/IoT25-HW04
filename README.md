@@ -80,9 +80,9 @@ Photos showing the ESP32 connected to PC, Bluetooth pairing on the phone, and Se
 ![Setup 1](./media/hw%204-1.png)  
 ![Setup 2](./media/hw%204-2.png)  
 <img src="./media/hw%204-3.jpg" width="300" height="700"/>
-![Phone Screenshot 2](./media/hw%204-4.jpg)  
-![Terminal Demo 1](./media/hw%204-5.jpg)  
-![Terminal Demo 2](./media/hw%204-6.jpg)
+<img src="./media/hw%204-4.jpg" width="300" height="700"/>
+<img src="./media/hw%204-5.jpg" width="300" height="700"/>
+<img src="./media/hw%204-6.jpg" width="300" height="700"/>
 
 ---
 
