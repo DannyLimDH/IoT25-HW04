@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # IoT25-HW04: ESP32 Bluetooth Classic Serial Communication
 
 This project demonstrates how to establish Serial communication between a computer and an ESP32 via **Classic Bluetooth (SPP - Serial Port Profile)** using the Arduino IDE. It enables bidirectional data transfer between the ESP32 and a smartphone or PC terminal via Bluetooth.
@@ -78,7 +77,7 @@ Steps:
 
 Photos showing the ESP32 connected to PC, Bluetooth pairing on the phone, and Serial Monitor outputs:
 
-![Setup 1](./media/hw%204-1.png)  
+![Setup 1](https://github.com/DannyLimDH/IoT25-HW03/blob/main/media/hw 4-1.png)  
 ![Setup 2](./media/hw%204-2.png)  
 ![Phone Screenshot 1](./media/hw%204-3.jpg)  
 ![Phone Screenshot 2](./media/hw%204-4.jpg)  
@@ -97,8 +96,6 @@ Photos showing the ESP32 connected to PC, Bluetooth pairing on the phone, and Se
 ---
 
 ## 🔗 Reference
+Rui Santos, VSCode + PlatformIO IDE: ESP32 & ESP8266, Arduino (Random Nerd Tutorials)
+(https://randomnerdtutorials.com/esp32-bluetooth-classic-arduino-ide/)
 
-- [ESP32 Bluetooth Classic Tutorial](https://randomnerdtutorials.com/esp32-bluetooth-classic-arduino-ide/)
-=======
-# IoT25-HW04
->>>>>>> 9f4d1b040ffec5c59747b1c370c5fbd7886648e6
